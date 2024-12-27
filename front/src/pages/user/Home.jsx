@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../../components/user/Header'
+import Header from '../../components/user/headers/Header'
 import HeroSection from '../../components/user/HeroSection'
 const Home = () => {
   return (

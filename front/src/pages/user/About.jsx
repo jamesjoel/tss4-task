@@ -1,5 +1,5 @@
 import React from 'react'
-import Header2 from '../../components/user/Header2'
+import Header2 from '../../components/user/headers/Header2'
 
 const About = () => {
   return (
